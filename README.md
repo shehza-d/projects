@@ -2,7 +2,7 @@
 All my projects
 
 
-```js
+```json
 [
   {
     "id": "1",
