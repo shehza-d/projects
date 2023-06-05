@@ -1,8 +1,3 @@
-# projects
-All my projects
-
-
-```js
 [
   {
     "id": "1",
@@ -50,5 +45,3 @@ All my projects
     "hostedLink": "npm link"
   }
 ]
-
-```
