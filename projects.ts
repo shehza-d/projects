@@ -9,6 +9,10 @@ interface IProject {
   hostedLink: string;
 }
 
+// https://github.com/shehza-d/weather
+// https://github.com/shehza-d/weather-html
+// https://github.com/shehza-d/weather-forecast
+
 export const projects: IProject[] = [
   {
     id: "1",
@@ -23,7 +27,7 @@ export const projects: IProject[] = [
   },
   {
     id: "2",
-    title: "News App",
+    title: "News A pp",
     previewImg:
       "https://res.cloudinary.com/deh1sqok6/image/upload/v1679250971/portfolio-ss/e32i6sdh1mzc72pdawm6.png",
     description: "Dynamic News App with Bing API",
