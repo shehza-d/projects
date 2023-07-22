@@ -16,10 +16,10 @@ interface IProject {
 export const projects: IProject[] = [
   {
     id: "1",
-    title: "Governors Inicaive Website ",
+    title: "Governors Initiative Website",
     previewImg: "",
     description:
-      "An official website for Governor Sindh Inicative for AI, Web3 and Metaverse",
+      "An official website for Governor Sindh's Initiative for IT, creating a seamless platform for students to apply to the program with student application forms and ID Card functionality. By designing an intuitive interface and integrating a secure database system, I streamlined the application process, resulting in increased efficiency for the Governors Initiative team. This project allowed me to enhance my web development skills while effectively collaborating with stakeholders, delivering a high-quality product that significantly contributed to the program's success.",
     techUsed: ["NextJS 13", "TailwindCSS", "TypeScript"],
     features: ["Dynamic routing", "Form Submission"],
     repoLink: "https://github.com/governor-sindh/website",
@@ -27,10 +27,10 @@ export const projects: IProject[] = [
   },
   {
     id: "2",
-    title: "News A pp",
+    title: "News App",
     previewImg:
       "https://res.cloudinary.com/deh1sqok6/image/upload/v1679250971/portfolio-ss/e32i6sdh1mzc72pdawm6.png",
-    description: "Dynamic News App with Bing API",
+    description: "The News App is a dynamic web application built using ReactJS, incorporating the Bing API to provide real-time news updates and information. The app enables users to stay informed with the latest news on various topics and categories. Utilizing the power of dynamic APIs, the app ensures that the content remains up-to-date and relevant. Users can access the app through the hosted link, where they can explore news articles seamlessly. The project's source code is available on GitHub, promoting collaboration and potential enhancements. Overall, the News App offers a user-friendly and efficient way to access current news information on diverse subjects.",
     techUsed: ["ReactJS", "Dynamic", "API"],
     features: [""],
     repoLink: "https://github.com/shehza-d/news-app/",
@@ -41,7 +41,7 @@ export const projects: IProject[] = [
     title: "Panaverse Website",
     previewImg:
       "https://res.cloudinary.com/deh1sqok6/image/upload/v1679250981/portfolio-ss/tpjt0re3wsw0wajsoemq.png",
-    description: "A site for Panaverse Education",
+    description: "The Panaverse Website is an aesthetically pleasing landing page designed for Panaverse Education. The site boasts a modern and efficient front-end implementation. Notably, it offers a Dark Mode feature, enhancing user experience and accessibility. With a captivating UI, the website effectively showcases the educational services provided by Panaverse Education. Users can seamlessly explore the site through the hosted link, and GitHub repository.",
     techUsed: ["NextJS 13", "TailwindCSS", "TypeScript"],
     features: ["Dark Mode"],
     repoLink: "https://github.com/shehza-d/panaverse-site/",
@@ -86,7 +86,7 @@ export const projects: IProject[] = [
     id: "6",
     title: "e commerce store",
     previewImg: "",
-    description: "Payment integration with Stripe and",
+    description: "The project is a modern NextJS and TypeScript-based web application focused on delivering a seamless online shopping experience. It features dynamic routing, secure payment integration with Stripe, and efficient content management through Sanity CMS. Utilizing Context API for state management ensures smooth performance. With serverless APIs for backend operations and open-source availability on GitHub, the project showcases a well-structured, scalable, and user-friendly e-commerce platform.",
     techUsed: [
       "NextJS",
       "TypeScript",
@@ -145,7 +145,7 @@ export const projects: IProject[] = [
     title: "Expense Tracker",
     previewImg: "",
     description: "",
-    techUsed: ["JavaScript",'Firebase'],
+    techUsed: ["JavaScript", "Firebase"],
     features: [""],
     repoLink: "https://github.com/shehza-d/expense-tracker",
     hostedLink: "https://shehza-d.github.io/expense-tracker/",
